@@ -1,0 +1,14 @@
+/* Navigation */
+/* home section */
+#home{
+
+}
+/* service section */
+#services{
+   flex-direction: column;
+}
+/* client section */
+#clients{
+    
+}
+/* Contact section */
